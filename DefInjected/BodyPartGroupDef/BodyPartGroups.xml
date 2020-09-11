@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Torso.label>torso</Torso.label>
-  <UpperHead.label>upper head</UpperHead.label>
-  <FullHead.label>full head</FullHead.label>
-  <Eyes.label>eyes</Eyes.label>
-  <Teeth.label>teeth</Teeth.label>
-  <Mouth.label>mouth</Mouth.label>
-  <Neck.label>neck</Neck.label>
-  <Arms.label>arms</Arms.label>
-  <Shoulders.label>shoulders</Shoulders.label>
-  <Hands.label>hands</Hands.label>
+  <Torso.label>פלג גוף עליון</Torso.label>
+  <UpperHead.label>ראש עליון</UpperHead.label>
+  <FullHead.label>כל הראש</FullHead.label>
+  <Eyes.label>עיניים</Eyes.label>
+  <Teeth.label>שיניים</Teeth.label>
+  <Mouth.label>פה</Mouth.label>
+  <Neck.label>צוואר</Neck.label>
+  <Arms.label>ידיים</Arms.label>
+  <Shoulders.label>כתפיים</Shoulders.label>
+  <Hands.label>ידיים</Hands.label>
 
-  <LeftHand.label>left fist</LeftHand.label>
-  <LeftHand.labelShort>fist</LeftHand.labelShort>
+  <LeftHand.label>אגרוף שמאל</LeftHand.label>
+  <LeftHand.labelShort>אגרוף</LeftHand.labelShort>
 
-  <RightHand.label>right fist</RightHand.label>
-  <RightHand.labelShort>fist</RightHand.labelShort>
+  <RightHand.label>אגרוף ימין</RightHand.label>
+  <RightHand.labelShort>אגרוף</RightHand.labelShort>
 
-  <Waist.label>waist</Waist.label>
-  <Legs.label>legs</Legs.label>
-  <Feet.label>feet</Feet.label>
+  <Waist.label>מותן</Waist.label>
+  <Legs.label>רגליים</Legs.label>
+  <Feet.label>כפות הרגליים</Feet.label>
 
-  <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
-  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.label>כמה שמאלית קדמית</FrontLeftPaw.label>
+  <FrontLeftPaw.labelShort>כפה</FrontLeftPaw.labelShort>
 
-  <FrontRightPaw.label>front right paw</FrontRightPaw.label>
-  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
+  <FrontRightPaw.label>כפה ימנית קדמית</FrontRightPaw.label>
+  <FrontRightPaw.labelShort>כפה</FrontRightPaw.labelShort>
 
-  <HeadAttackTool.label>head</HeadAttackTool.label>
+  <HeadAttackTool.label>ראש</HeadAttackTool.label>
 
-  <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
-  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.label>רגל שמאלית  קדמית</FrontLeftLeg.label>
+  <FrontLeftLeg.labelShort>רגל</FrontLeftLeg.labelShort>
 
-  <FrontRightLeg.label>front right leg</FrontRightLeg.label>
-  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
+  <FrontRightLeg.label>רגל ימנית קדמית</FrontRightLeg.label>
+  <FrontRightLeg.labelShort>רגל</FrontRightLeg.labelShort>
 
-  <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
-  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.label>טפרים שמאליים קדמיים</FrontLeftClaws.label>
+  <FrontLeftClaws.labelShort>טפרים</FrontLeftClaws.labelShort>
 
-  <FrontRightClaws.label>front right claws</FrontRightClaws.label>
-  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
+  <FrontRightClaws.label>טפרים ימנים קדמיים</FrontRightClaws.label>
+  <FrontRightClaws.labelShort>טפרים</FrontRightClaws.labelShort>
 
-  <LeftBlade.label>left blade</LeftBlade.label>
-  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
+  <LeftBlade.label>להב שמאלי</LeftBlade.label>
+  <LeftBlade.labelShort>להב</LeftBlade.labelShort>
 
-  <RightBlade.label>right blade</RightBlade.label>
-  <RightBlade.labelShort>blade</RightBlade.labelShort>
+  <RightBlade.label>להב ימני</RightBlade.label>
+  <RightBlade.labelShort>להב</RightBlade.labelShort>
 
-  <TuskAttackTool.label>tusks</TuskAttackTool.label>
-  <HornAttackTool.label>horn</HornAttackTool.label>
-  <HeadClaw.label>claw</HeadClaw.label>
-  <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
-  <Beak.label>beak</Beak.label>
+  <TuskAttackTool.label>ניבים</TuskAttackTool.label>
+  <HornAttackTool.label>קרן</HornAttackTool.label>
+  <HeadClaw.label>טפר</HeadClaw.label>
+  <TurtleBeakAttackTool.label>מקור</TurtleBeakAttackTool.label>
+  <Beak.label>מקור</Beak.label>
 
 
 </LanguageData>

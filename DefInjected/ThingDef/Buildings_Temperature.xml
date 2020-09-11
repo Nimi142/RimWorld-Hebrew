@@ -1,35 +1,56 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Campfire.label>campfire</Campfire.label>
-  <Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+  <!-- EN:campfire -->
+  <Campfire.label>מדורה</Campfire.label>
+  <!-- EN:Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>מבשלת ארוחות, מייצרת חום, ומפסיקה לבעור לאחר כמה ימים. כמו עם כל מקורות החוםף, צריך לשים אותה במקום סגור כדי שתוכל לחמם. ניתן למלא לה דלק.</Campfire.description>
 
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_Campfire.label>BlueprintLabelExtra</Blueprint_Campfire.label>
+  <!-- EN:FrameLabelExtra -->
   <Frame_Campfire.label>FrameLabelExtra</Frame_Campfire.label>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and vanish after several days.</PassiveCooler.description>
+  <!-- EN:passive cooler -->
+  <PassiveCooler.label>מכשיר קירור סביל</PassiveCooler.label>
+  <!-- EN:A traditional unpowered cooler that works by water evaporation. Will run out and vanish after several days. -->
+  <PassiveCooler.description>מכשיר קירור מסורתי שעובד על ידי אידוי מים. בעוד כמה ימים, הוא יגמר ויעלם.</PassiveCooler.description>
 
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_PassiveCooler.label>BlueprintLabelExtra</Blueprint_PassiveCooler.label>
+  <!-- EN:FrameLabelExtra -->
   <Frame_PassiveCooler.label>FrameLabelExtra</Frame_PassiveCooler.label>
 
-  <Heater.label>heater</Heater.label>
-  <Heater.description>An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+  <!-- EN:heater -->
+  <Heater.label>מחמם</Heater.label>
+  <!-- EN:An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>מכשיר שממיר חשמל לחום. הוא יכול להדליק ולכבות את עצמו באופן אוטומטי בכדי להגיע לטמפרטורה מסויימת.</Heater.description>
 
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_Heater.label>BlueprintLabelExtra</Blueprint_Heater.label>
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_Install_Heater.label>BlueprintLabelExtra</Blueprint_Install_Heater.label>
+  <!-- EN:FrameLabelExtra -->
   <Frame_Heater.label>FrameLabelExtra</Frame_Heater.label>
 
-  <Cooler.label>cooler</Cooler.label>
-  <Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Cooler.description>
+  <!-- EN:cooler -->
+  <Cooler.label>מכשיר קירור</Cooler.label>
+  <!-- EN:An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>מכשיר קירור אוויר שיכול להתאים לקיר. אוויר קר יוצא מצד אחד, בזמן שאוויר חם יוצא מצד אחר. אפשר להשתמש בו בכדי לקרר חדרים בקיץ, או בשביל ליצור פריזר שאפשר ללכת בו.</Cooler.description>
 
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_Cooler.label>BlueprintLabelExtra</Blueprint_Cooler.label>
+  <!-- EN:FrameLabelExtra -->
   <Frame_Cooler.label>FrameLabelExtra</Frame_Cooler.label>
 
-  <Vent.label>vent</Vent.label>
-  <Vent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+  <!-- EN:vent -->
+  <Vent.label>פיר אוורור</Vent.label>
+  <!-- EN:A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>פיר אוורור שמשווה את הטמפרטורות בין שני חדרים בלי לתת לאנשים לעבור דרכו.</Vent.description>
 
+  <!-- EN:BlueprintLabelExtra -->
   <Blueprint_Vent.label>BlueprintLabelExtra</Blueprint_Vent.label>
+  <!-- EN:FrameLabelExtra -->
   <Frame_Vent.label>FrameLabelExtra</Frame_Vent.label>
 
 

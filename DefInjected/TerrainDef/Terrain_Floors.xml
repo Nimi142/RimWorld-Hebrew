@@ -3,44 +3,68 @@
 
   <!-- ================= Misc ================= -->
 
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly.</Concrete.description>
+  <!-- EN:concrete -->
+  <Concrete.label>בטון</Concrete.label>
+  <!-- EN:Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>בטון מוצק. מהיר ללכת עליו, הוא זול, ואפשר לבנות אותו במהירוצ. הוא די מכוער.</Concrete.description>
 
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <!-- EN:paved tile -->
+  <PavedTile.label>אריח מרוצף</PavedTile.label>
+  <!-- EN:Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>אריחי בטון. הם זולים וניתן לזוז עליהם במהירות, אך הם לא יפים במיוחד ולוקח זמן לבנות אותםץ</PavedTile.description>
 
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</WoodPlankFloor.description>
+  <!-- EN:wood floor -->
+  <WoodPlankFloor.label>פרקט</WoodPlankFloor.label>
+  <!-- EN:Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>רצפת עץ מספר הרגשה חמה ובייתית. בזמן שקל להניח רצפה כזו, היא מאוד דליקה.</WoodPlankFloor.description>
 
 
   <!-- ================= Tiles ================= -->
 
-  <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
+  <!-- EN:metal tile -->
+  <MetalTile.label>אריח מתכת</MetalTile.label>
+  <!-- EN:Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>אריחי מתכת, בשביל מראה כמו בחללית. האריחים יפים, והמשטח החלק נותן בונוס לניקיון.</MetalTile.description>
 
-  <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness.</SilverTile.description>
+  <!-- EN:silver tile -->
+  <SilverTile.label>אריח כסף</SilverTile.label>
+  <!-- EN:For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>בשביל מקרה עתידי ומלכותי. אריחי כסף מתאימים באופן מושלם לחדרים נוחים. הם נותנים בונוס לניקיון.</SilverTile.description>
 
-  <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
+  <!-- EN:gold tile -->
+  <GoldTile.label>אריחי זהב</GoldTile.label>
+  <!-- EN:For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>בשביל שחצנות מוחלטת, אף דבר לא מביס אריחי זהב. הם יקרים באופן מיוחד, ויפים באופן מיוחד. אנשים יחשבו שמושבתך סנובית אם אתה אשכרה משתמש בהם.</GoldTile.description>
 
-  <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.</SterileTile.description>
+  <!-- EN:sterile tile -->
+  <SterileTile.label>אריח סטרילי</SterileTile.label>
+  <!-- EN:Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>אריחים סטריליים עם תכונות שמשפרות את הניקיון. חדרים נקיים משפרים את התוצאה בבתי חולים ומעבדות מחקר. לוקח הרבה זמן לשים את האריחים האלו.</SterileTile.description>
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <!-- EN:red carpet -->
+  <CarpetRed.label>שטיח אדום</CarpetRed.label>
+  <!-- EN:Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>שטיח שופע בצבע אדום כורד.</CarpetRed.description>
 
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet. Earth tones, dude.</CarpetGreen.description>
+  <!-- EN:green carpet -->
+  <CarpetGreen.label>שטיח ירוק</CarpetGreen.label>
+  <!-- EN:Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>שטיח בצבע ירוק-טבעי. טונים של כדור הארץ, אחי.</CarpetGreen.description>
 
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <!-- EN:blue carpet -->
+  <CarpetBlue.label>שטיח כחול</CarpetBlue.label>
+  <!-- EN:Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>שטיח בצבע כחול קול.</CarpetBlue.description>
 
-  <CarpetCream.label>cream carpet</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+  <!-- EN:cream carpet -->
+  <CarpetCream.label>שטיח קרם</CarpetCream.label>
+  <!-- EN:Inviting cream-colored carpet. -->
+  <CarpetCream.description>שטיח מזמין בצבע קרם.</CarpetCream.description>
 
-  <CarpetDark.label>dark carpet</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <!-- EN:dark carpet -->
+  <CarpetDark.label>שטיח אפל</CarpetDark.label>
+  <!-- EN:Professional-looking dark gray carpet. -->
+  <CarpetDark.description>שטיח אפור כהה בעל מראה מקצועי.</CarpetDark.description>
 
 
 </LanguageData>

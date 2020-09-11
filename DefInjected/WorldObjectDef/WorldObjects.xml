@@ -1,32 +1,50 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Caravan.label>caravan</Caravan.label>
-  <Caravan.description>A group of traveling people.</Caravan.description>
+  <!-- EN:caravan -->
+  <Caravan.label>קראוון</Caravan.label>
+  <!-- EN:A group of traveling people. -->
+  <Caravan.description>קבוצה של מטיילים..</Caravan.description>
 
-  <Settlement.label>settlement</Settlement.label>
-  <Settlement.description>A base of one of the factions.</Settlement.description>
+  <!-- EN:settlement -->
+  <Settlement.label>התיישבות</Settlement.label>
+  <!-- EN:A base of one of the factions. -->
+  <Settlement.description>בסיס של אחד מהפלגים.</Settlement.description>
 
-  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
-  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+  <!-- EN:abandoned settlement -->
+  <AbandonedSettlement.label>התיישבות נטושה</AbandonedSettlement.label>
+  <!-- EN:An abandoned settlement. -->
+  <AbandonedSettlement.description>התיישבות נטושה.</AbandonedSettlement.description>
 
-  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
-  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+  <!-- EN:destroyed settlement -->
+  <DestroyedSettlement.label>התיישבות הרוסה</DestroyedSettlement.label>
+  <!-- EN:A destroyed settlement. -->
+  <DestroyedSettlement.description>התיישבות הרוסה.</DestroyedSettlement.description>
 
-  <EscapeShip.label>landed ship</EscapeShip.label>
-  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
+  <!-- EN:landed ship -->
+  <EscapeShip.label>ספינה חונה</EscapeShip.label>
+  <!-- EN:The location of a hidden ship which can help you escape the planet. -->
+  <EscapeShip.description>המיקום של ספינה חבוייה שיכולה לעזור לבריחה מהכוכב.</EscapeShip.description>
 
-  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
-  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+  <!-- EN:attacked caravan -->
+  <AttackedNonPlayerCaravan.label>קראוון מותקף.</AttackedNonPlayerCaravan.label>
+  <!-- EN:A caravan under attack. -->
+  <AttackedNonPlayerCaravan.description>קראוון מותקף.</AttackedNonPlayerCaravan.description>
 
-  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+  <!-- EN:transport pods -->
+  <TravelingTransportPods.label>תרמילי תחבורה</TravelingTransportPods.label>
+  <!-- EN:Transport pods in flight. -->
+  <TravelingTransportPods.description>תרמילי תחבורה בתזוזה.</TravelingTransportPods.description>
 
-  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+  <!-- EN:waypoint -->
+  <RoutePlannerWaypoint.label>ציון דרך</RoutePlannerWaypoint.label>
+  <!-- EN:A temporary waypoint. -->
+  <RoutePlannerWaypoint.description>ציון דרך זמני.</RoutePlannerWaypoint.description>
 
-  <PeaceTalks.label>peace talks</PeaceTalks.label>
-  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
+  <!-- EN:peace talks -->
+  <PeaceTalks.label>שיחות שלום</PeaceTalks.label>
+  <!-- EN:A site designated for peace talks. -->
+  <PeaceTalks.description>אתר המיועד לשיחות שלום.</PeaceTalks.description>
 
 
 </LanguageData>

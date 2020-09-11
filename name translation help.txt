@@ -25,6 +25,11 @@ goodwill - מוניטין
 suggestions - 
 this translation kind of works, might keep it like that.
 
+smokeleaf - עלה-עישון
+
+Cooler - מכשיר קירור
+לא יכול לאמר מקרר, כי זה לא לאוכל, וזה גם לא מזגן.
+
 names needed--------------------------------------------------------------
 Urbworld - 
 Medival - 
@@ -36,7 +41,4 @@ scyther - נושא חרמש?
 chemfuel - 
 suggestions -
 not a clue on how to approach this, דלק כימי? דלכימי לא נשמע טוב
-smokeleaf -
-suggestions - סמוקליף
-עלה עישון? שוב פעם זה לא בדיוק מתגלגל טוב מהלשון
 ---------------------------------------------------------------------------
